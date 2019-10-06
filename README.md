@@ -17,7 +17,7 @@ Let's find a way to make paying it forward the norm. Where would your startup or
 product be today without open-source? Would you be able to ship a new product in
 a few months without using open-source projects?
 
-# License
+## License
 
 License text can be found in [LICENSE.md]
 
